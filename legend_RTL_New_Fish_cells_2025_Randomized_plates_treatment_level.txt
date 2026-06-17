@@ -1,0 +1,30 @@
+Profiles aggregated to treatment level at the plate  
+
+"group" column contains treatment information:
+
+{'Control - 0.1%': 0,
+ 'PFOS - 10.0µM': 1,
+ 'PFOS - 5.0µM': 2,
+ 'PFOS - 2.5µM': 3,
+ 'PFOS - 1.25µM': 4,
+ 'BaP - 10.0µM': 5,
+ 'BaP - 5.0µM': 6,
+ 'BaP - 2.5µM': 7,
+ 'BaP - 1.25µM': 8,
+ 'BPA - 10.0µM': 9,
+ 'BPA - 5.0µM': 10,
+ 'BPA - 2.5µM': 11,
+ 'BPA - 1.25µM': 12,
+ 'PFOS_BaP - 5.0µM': 13,
+ 'PFOS_BPA - 5.0µM': 14,
+ 'BaP_BPA - 5.0µM': 15,
+ 'PFOS_BaP_BPA - 3.33µM': 16}
+
+
+"ID" contains treatment and plate information:
+plate CP250226JSZE02 -> "group" values +200
+plate CP250227JSZE01 -> "group" values +300
+plate CP250227JSZE02 -> "group" values +400
+
+
+the plate CP250226JSZE01 was excluded before BEC procedure
